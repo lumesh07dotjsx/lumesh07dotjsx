@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React Native Developer
 ----------------------
 
-I'm a Full-Stack Developer with over two years of experience in building user-friendly and visually appealing web and mobile applications. My expertise includes HTML5, CSS3, and JavaScript (ES6), and I'm proficient in using React.js and React Native to create interactive applications for both Android and iOS.
+I'm a Full-Stack Engineer with over two years of experience in building user-friendly and visually appealing web and mobile applications. My expertise includes HTML5, CSS3, and JavaScript (ES6), and I'm proficient in using React.js and React Native to create interactive applications for both Android and iOS.
 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [My Portfolio](http://lumesh.netlify.app)
